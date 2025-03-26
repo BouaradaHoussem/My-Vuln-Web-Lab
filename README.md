@@ -26,5 +26,4 @@ php artisan serve
 
 3. Explore the various features and functionalities of the lab. Please take note of the intentional vulnerabilities and use them for training purposes.
 ![Screenshot (349)](https://github.com/0xx01/Vuln-Web-Lab/assets/130947610/f5b28a9c-8003-4e7d-b2e8-43b70ec88829)
-## Contribute
-If you have any problem or new idea, feel free to create an issue, or pull a request.
+
