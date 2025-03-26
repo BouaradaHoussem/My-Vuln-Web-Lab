@@ -34,7 +34,7 @@
                   @enderror
                 </div>
                 <div class="mb-3">
-                  <label for="exampleInputPassword1" class="form-label">Currnet Password</label>
+                  <label for="exampleInputPassword1" class="form-label">Current Password</label>
                   <input type="password" class="form-control @error('current_password') is-invalid @enderror" name="current_password" id="exampleInputPassword1" placeholder="Currnet password" required>
                   @error('current_password')
                     <span class="invalid-feedback" role="alert">
