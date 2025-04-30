@@ -8,7 +8,7 @@ Follow these steps to install and set up the lab:
 2. Install composer from https://getcomposer.org/download/
 3. Go to PHPMyAdmin and create a database by the name 'lab'
 ```sh
-git clone https://github.com/0xx01/Vuln-Web-Lab.git
+git clone https://github.com//BouaradaHoussem/My-Vuln-Web-Lab.git
 cd Vuln-Web-Lab/
 composer install # Install dependencies using Composer.
 php artisan migrates  # Run database migrations.
